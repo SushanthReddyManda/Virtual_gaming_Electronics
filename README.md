@@ -14,10 +14,10 @@ The aim of this project is to control game with hand moments and gestures so tha
 ## What did we build this with?
 It is done by using from MPU 6050 accelerometer for force and direction while flex sensors for gestures and Arduino for communicating with game with Bluetooth.
 
-
-   <img src="./readme_img/aurdino.png" width="15%" height="10%">
+<p align="center">
+   <img src="./readme_img/aurdino.png" width="15%">
    <span> &nbsp; &nbsp; &nbsp; &nbsp; </span>
-   <img src="./readme_img/unity2.png" width="20%" height="10%">
+   <img src="./readme_img/unity2.png" width="20%">
 
 
 ## Code in Repo:
