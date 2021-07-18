@@ -12,7 +12,14 @@ In this we decided to make a such device which helps us in gaming so that you ca
 The aim of this project is to control game with hand moments and gestures so that we can get a better experience of gamming. 
 
 ## What did we build this with?
-In this cylinder's direction and force is controlled by using had moments. It is done by using from MPU 6050 accelerometer for force and direction while flex sensors for gestures and Arduino for communicating with game with Bluetooth.
+It is done by using from MPU 6050 accelerometer for force and direction while flex sensors for gestures and Arduino for communicating with game with Bluetooth.
+
+![Alt-text]
+(
+    <img src="./readme_img/aurdino.png" width="20%" height="10%" >
+    <img src="./readme_img/unity.jpg" width="20%" height="10%" >
+)
+
 
 ## Code in Repo:
 
@@ -31,3 +38,5 @@ Now connect Arduino to pc with wire or Bluetooth as your wish.
 First keep finger open to which sensor was attached then by rotating your hand you can set to which direction ball has to move and then close finger so that direction was fixed. While finger in closed position now try to place z perpendicular to ground and while moving your hand release finger so ball moves.
 
 ## Images of the project:
+<img src="./readme_img/image1.png" width="40%" height="30%" >
+<img src="./readme_img/image3.jpg" width="40%" height="30%" >
