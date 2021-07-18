@@ -15,8 +15,8 @@ The aim of this project is to control game with hand moments and gestures so tha
 It is done by using from MPU 6050 accelerometer for force and direction while flex sensors for gestures and Arduino for communicating with game with Bluetooth.
 
 
-    <img src="./readme_img/aurdino.png" width="20%" height="10%" >
-   <img src="./readme_img/unity2.png" width="20%" height="10%" >
+   <img src="./readme_img/aurdino.png" width="20%" height="10%">
+   <img src="./readme_img/unity2.png" width="20%" height="10%">
 
 
 ## Code in Repo:
@@ -37,4 +37,4 @@ First keep finger open to which sensor was attached then by rotating your hand y
 
 ## Images of the project:
 <img src="./readme_img/image1.png" width="40%" height="30%" >
-<img src="./readme_img/image3.jpg" width="20%" height="10%" >
+<!-- <img src="./readme_img/image3.jpg" width="20%" height="10%" > -->
