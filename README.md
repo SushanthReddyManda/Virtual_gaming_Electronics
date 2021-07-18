@@ -6,7 +6,7 @@ In this we decided to make a such device which helps us in gaming so that you ca
 
 ## Video Link:
 
-[**Click here to see the demo of the model**](https://drive.google.com/file/d/133msADb-vvlUbTtjuPj2xIkXZ4UIO2nn/)
+[**Click here to see the demo of the model**](https://drive.google.com/file/d/1bq91Qzb1QT7yjr0bWxI28aFrUxHwSxHh/view?usp=drivesdk)
 
 ## Aim of the Project?
 The aim of this project is to control game with hand moments and gestures so that we can get a better experience of gamming. 
